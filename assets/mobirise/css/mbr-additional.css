@@ -1218,7 +1218,7 @@ body {
 }
 .cid-qZvW08Zx46 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
 }
 .cid-qZvW08Zx46 .text-box {
   position: absolute;
@@ -1275,6 +1275,12 @@ body {
   .cid-qZvW08Zx46 .text-box {
     writing-mode: bt-rl;
   }
+}
+.cid-qZvW08Zx46 .mbr-section-title {
+  text-align: center;
+}
+.cid-qZvW08Zx46 .mbr-section-text {
+  text-align: center;
 }
 .cid-qZvY7EkmBH {
   padding-top: 15px;
